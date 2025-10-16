@@ -1,3 +1,4 @@
 <?php
-            echo "<h1>Ejercicio 3.4</h1>";
+            echo "Ejercicio 3.4";
+
         ?>
